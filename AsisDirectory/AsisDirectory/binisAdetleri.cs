@@ -21,6 +21,7 @@ namespace AsisDirectory
         public decimal AktarmaTutar { get; set; }
         public int UcretsizAdet { get; set; }
         public int ToplamAdet { get; set; }
+
         public decimal ToplamTutar { get; set; }
     }
 }
