@@ -15,5 +15,6 @@ namespace AsisDirectory
         public string plaka { get; set; }
         public byte validatorVarMi { get; set; }
         public Int32? validatorNo { get; set; }
+        //
     }
 }
