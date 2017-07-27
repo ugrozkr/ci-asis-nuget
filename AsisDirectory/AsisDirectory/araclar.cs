@@ -16,5 +16,6 @@ namespace AsisDirectory
         public byte validatorVarMi { get; set; }
         public Int32? validatorNo { get; set; }
         //
+        //
     }
 }
